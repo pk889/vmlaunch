@@ -1,0 +1,5 @@
+{
+	files: [ "vmlaunch_simple.c" ],
+	main: "vmxon_init",
+	machdep: "gcc_x86_64"
+}
